@@ -1,6 +1,12 @@
 ### Usage
 
-Make sure to [set up AWS credentials](http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-configuring.html#Setting_AWS_Credentials) and run `npm install`. Then:
+Make sure to [set up AWS credentials](http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-configuring.html#Setting_AWS_Credentials). One way to achieve this is to create `~/.aws/credentials` with the following content:
+
+    [default]
+    aws_access_key_id = <YOUR_ACCESS_KEY_ID>
+    aws_secret_access_key = <YOUR_SECRET_ACCESS_KEY>
+
+Now, run `npm install`, and you are ready to go.
 
 ###### Set up
 
