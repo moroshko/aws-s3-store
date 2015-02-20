@@ -4,7 +4,7 @@ Make sure to [set up AWS credentials](http://docs.aws.amazon.com/AWSJavaScriptSD
 
 ###### Set up
 
-    var s3Store = require('aws-s3-store');
+    var s3Store = require('./aws-s3-store');
 
     s3Store.init({ bucket: 'my-s3-bucket-name' });
 
