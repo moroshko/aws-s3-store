@@ -1,6 +1,6 @@
 ### Usage
 
-Make sure to [set up AWS credentials](http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-configuring.html#Setting_AWS_Credentials). Then:
+Make sure to [set up AWS credentials](http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-configuring.html#Setting_AWS_Credentials) and run `npm install`. Then:
 
 ###### Set up
 
