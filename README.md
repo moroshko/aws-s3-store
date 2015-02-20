@@ -10,7 +10,7 @@ Now, run `npm install`, and you are ready to go.
 
 ###### Set up
 
-    var s3Store = require('./aws-s3-store');
+    var s3Store = require('aws-s3-store');
 
     s3Store.init({ bucket: 'my-s3-bucket-name' });
 
