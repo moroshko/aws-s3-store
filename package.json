@@ -1,7 +1,7 @@
 {
   "name": "aws-s3-store",
   "version": "1.0.0",
-  "description": "AWS S3 Store",
+  "description": "Simple node.js interface to AWS S3",
   "repository": {
     "type": "git",
     "url": "git@github.com:moroshko/aws-s3-store.git"
