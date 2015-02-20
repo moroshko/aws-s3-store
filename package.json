@@ -7,7 +7,7 @@
     "url": "git@github.com:moroshko/aws-s3-store.git"
   },
   "dependencies": {
-    "aws-sdk": "^2.1.10",
+    "aws-sdk": "^2.1.12",
     "node-uuid": "^1.4.2"
   }
 }
